@@ -1,6 +1,6 @@
 # Hi, my name is Ernandy Lucena 👋, Welcome to my GitHub profile
 
-## 🙍 About me:
+## About me:
 
 - 🌱 I'm currently delving deeper into reactjs and databases
 - ⚡ One fact: I spent 2 years working as a graphic designer, bringing creativity to visual projects.
@@ -23,7 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 
 ### Database
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
