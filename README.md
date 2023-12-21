@@ -1,2 +1,2 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"
+👋 Hello! Welcome to my Github profile.
+My name is Ernandy Lucena
