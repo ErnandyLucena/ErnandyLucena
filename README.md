@@ -1,4 +1,4 @@
-# Hi, my name is Ernandy Lucena 👋, Welcome to my GitHub profile 😄
+# Hi, my name is Ernandy Lucena 👋, Welcome to my GitHub profile
 
 ## 🙍 About me:
 
