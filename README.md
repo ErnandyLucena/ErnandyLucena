@@ -6,9 +6,7 @@
 - ⚡ One fact: I spent 2 years working as a graphic designer, bringing creativity to visual projects.
 - 📫 How to reach me: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581993800881)
 
-<hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnandyLucena&langs_count=8&theme=tokyonight" alt="Ernandy's GitHub stats" align="right"></a>
 
 ## 🛠️ Skills
 
