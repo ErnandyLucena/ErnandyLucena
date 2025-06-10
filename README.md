@@ -3,7 +3,7 @@
 ## About me
 
 - 🌱 I'm currently delving deeper into **ReactJS** and **Databases**  
-- ⚡ Fun fact: I worked for 2 years as a graphic designer, bringing creativity to visual projects  
+- ⚡ Fun fact: I worked for 2 years as a UX designer, bringing creativity to visual projects  
 - 📫 Reach me on:  
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581993800881)
 
